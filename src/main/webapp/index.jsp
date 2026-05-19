@@ -1,5 +1,5 @@
 <html>
 <body>
-<h1>Deployment Successful</h1>
+<h1>Deployment Success</h1>
 </body>
 </html>
